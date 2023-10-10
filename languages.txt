@@ -1,3 +1,6 @@
 English
 Ukrainian
 French
+Italian
+German
+Polish

@@ -2,3 +2,6 @@ Addition +
 Subtraction -
 Division /
 Multiplication *
+Power ^
+Natural logarithm ln
+Equals =
