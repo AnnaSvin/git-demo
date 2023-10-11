@@ -6,5 +6,10 @@ Past Simple
 Past Continuous
 Past Perfect
 Past Perfect Continuous
+Future Simple
+Future Continuous
+Future Perfect
+Future Perfect Continuous
+
 
 
