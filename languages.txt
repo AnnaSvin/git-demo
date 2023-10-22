@@ -4,3 +4,6 @@ French
 Italian
 German
 Polish
+Chinese
+Japanese
+Korean
