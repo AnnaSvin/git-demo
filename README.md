@@ -40,3 +40,5 @@
 Документація з використання Git розміщена за [посиланням.](https://learn.ztu.edu.ua/mod/url/view.php?id=186960)
 
 Виконала: ***Свінціцька Анна***
+
+Email: ipz233_say@student.ztu.edu.ua
