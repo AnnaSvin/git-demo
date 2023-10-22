@@ -5,3 +5,7 @@ Multiplication *
 Power ^
 Natural logarithm ln
 Equals =
+1000 / 2 = 500
+1000 - divided
+2 - divisor
+500 - quotient
